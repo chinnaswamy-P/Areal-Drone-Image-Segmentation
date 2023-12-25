@@ -1,0 +1,3 @@
+## Dataset is from kaggle - Aerial Semantic Segmentation Drone Dataset
+
+``kaggle datasets download -d bulentsiyah/semantic-drone-dataset``
